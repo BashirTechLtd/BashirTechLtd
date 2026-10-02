@@ -21,7 +21,7 @@ An all-in-one educational document maker designed for teachers, coaching centers
 - 📚 Assignment & Homework Maker
 - 📄 Application Letter Maker
 
-### 🔗 Project Links
+### 🔗 Featured Project:
 
 - 📱 **Google Play:** [View EduDocs BD](https://play.google.com/store/apps/details?id=com.anirbantechltd.edudocsbd)
 - 📂 **Project Showcase:** [View on GitHub](https://github.com/BashirTechLtd/edudocs-bd-showcase)
