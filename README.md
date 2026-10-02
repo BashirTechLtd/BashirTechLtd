@@ -4,23 +4,6 @@
 
 ---
 
-## 🚀 Featured Project
-
-### 📱 EduDocs BD – Document Maker
-
-An all-in-one educational document maker designed for teachers, coaching centers, private tutors, schools, colleges, madrasahs, and educational institutions in Bangladesh.
-
-**Key Features**
-
-- 📝 Question Paper Maker
-- 📊 Result Sheet Maker
-- 📢 Notice Maker
-- 📅 Exam & Class Routine Maker
-- 🎫 Admit Card Maker
-- 🏆 Certificate Maker
-- 📚 Assignment & Homework Maker
-- 📄 Application Letter Maker
-
 ### 🔗 Featured Project:
 
 - 📱 **Google Play:** [View EduDocs BD](https://play.google.com/store/apps/details?id=com.anirbantechltd.edudocsbd)
