@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Md Bashir
 
-### Android App Developer
-
-I’m an Android App Developer focused on building practical mobile applications and exploring modern mobile technologies.
+### I’m an Android App Developer focused on building practical mobile applications and exploring modern mobile technologies.
 
 ---
 
